@@ -3,7 +3,7 @@
 For this project, i make use of the following:
 
 1) Components: 
-- Analog Turbidty Sensor
+- Analog Turbidity Sensor
 - Analog pH meter pro
 - DS18B20 Temperature Sensor
 - NodeMCU
