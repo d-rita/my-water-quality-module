@@ -1,12 +1,16 @@
-#### My Water Monitoring App
+#### My Water Monitoring System
 
-This project makes use of:
+For this project, i make use of the following:
+
+1) Components: 
 - Analog Turbidty Sensor
 - Analog pH meter pro
 - DS18B20 Temperature Sensor
 - NodeMCU
 
-This project utilises the Arduino IDE and the above components. 
+2. Platforms:
+- Arduino
+- ThingSpeak
 
 Note: 
 - All secret values like API keys passwords are contained in a secrets.h file to prevent public access to them.
